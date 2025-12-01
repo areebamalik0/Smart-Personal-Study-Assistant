@@ -50,6 +50,11 @@ To build or run this project, you need:
 
 ---
 
+## 📥 Download
+[Download here](https://github.com/areebamalik0/Smart-Personal-Study-Assistant/archive/refs/heads/main.zip)
+
+---
+
 ## 👨‍💻 Author
 Created by **Areeba Malik**.
 
